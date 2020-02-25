@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/donkey-kong-coin.ogg-5744c76212ccd276c19d0fd5b1e03625.oggstr"
+
+[deps]
+
+source_file="res://assets/sonido/donkey-kong-coin.ogg"
+dest_files=[ "res://.import/donkey-kong-coin.ogg-5744c76212ccd276c19d0fd5b1e03625.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
